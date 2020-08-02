@@ -6,8 +6,8 @@ export default function Nav() {
 
 
     return(
-        <div>
-            <ul className="nav-links">
+        <div className="nav-links">
+            <ul>
                 <Link to="/">
                     <li>Home</li>
                 </Link>
